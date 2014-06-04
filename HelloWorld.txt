@@ -1,0 +1,3 @@
+Hello world in the new file
+and another line
+like in the new world
